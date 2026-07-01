@@ -1,4 +1,4 @@
----
+---adb shell /data/app/moe.shizuku.privileged.api-vFLr_TpHVpqiAtFdp8ih0w==/lib/arm64/libshizuku.so
 manufacturer: 
     - realme
 
